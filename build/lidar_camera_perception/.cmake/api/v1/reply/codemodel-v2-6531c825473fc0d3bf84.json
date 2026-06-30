@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "lidar_camera_perception__py",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/zonglin/moon_project/ros2_ws/build/lidar_camera_perception/lidar_camera_perception__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "lidar_camera_perception",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "image_overlay_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_overlay_node-0354f49edf9ef3467bce.json",
+					"name" : "image_overlay_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_fusion_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_fusion_node-b119aa89d26095a519e3.json",
+					"name" : "lidar_camera_fusion_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception-8e4c85f75eb18a81adac.json",
+					"name" : "lidar_camera_perception",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__cpp-bc6084b5b889c538a554.json",
+					"name" : "lidar_camera_perception__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lidar_camera_perception__py::@f53b13491769dd2229db",
+					"jsonFile" : "target-lidar_camera_perception__py-d976be5873e63f79c0f2.json",
+					"name" : "lidar_camera_perception__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__python-bd5150ad38ec5c15e3f1.json",
+					"name" : "lidar_camera_perception__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_generator_c-b8cf41e61bbf9eaecf9a.json",
+					"name" : "lidar_camera_perception__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_c-20642ab049ea06564354.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_c__pyext-7bef54a1eed3c769dad3.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_cpp-10a535cf4e6dbb30d6a4.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_fastrtps_c-fbe560ae2caf71496d81.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_fastrtps_c__pyext-804f8d2170a7dd305eba.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_fastrtps_cpp-c0e1d58e19ef73cf7a77.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_introspection_c-2063ecbd501632230a81.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_introspection_c__pyext-e8ae17d6c617f289ca82.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception__rosidl_typesupport_introspection_cpp-55f428f9fa1148f91f02.json",
+					"name" : "lidar_camera_perception__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_camera_perception_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_camera_perception_uninstall-70f4765aa1a8f9b51f47.json",
+					"name" : "lidar_camera_perception_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_cluster_detector_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_cluster_detector_node-8e2a8ff32e620395a2ee.json",
+					"name" : "lidar_cluster_detector_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_preprocessing_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_preprocessing_node-c00013313e49faab5094.json",
+					"name" : "lidar_preprocessing_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_tracker_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_tracker_node-ff89f61319d2b2b7f1a1.json",
+					"name" : "lidar_tracker_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f6451bfbc9d51009a5ce.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zonglin/moon_project/ros2_ws/build/lidar_camera_perception",
+		"source" : "/home/zonglin/moon_project/ros2_ws/src/ros2_lidar_camera_perception"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/zonglin/moon_project/ros2_ws/build/lidar_camera_perception/liblidar_camera_perception__rosidl_typesupport_fastrtps_c.so" "TARGETS" "lidar_camera_perception__rosidl_typesupport_fastrtps_c" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

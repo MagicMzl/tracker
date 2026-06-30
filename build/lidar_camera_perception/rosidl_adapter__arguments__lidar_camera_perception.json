@@ -1,0 +1,7 @@
+{
+  "package_name": "lidar_camera_perception",
+  "non_idl_tuples": [
+    "/home/zonglin/moon_project/ros2_ws/src/ros2_lidar_camera_perception:msg/TrackedObject.msg",
+    "/home/zonglin/moon_project/ros2_ws/src/ros2_lidar_camera_perception:msg/TrackedObjectArray.msg"
+  ]
+}

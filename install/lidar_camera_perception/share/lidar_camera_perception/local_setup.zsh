@@ -1,0 +1,1 @@
+/home/zonglin/moon_project/ros2_ws/build/lidar_camera_perception/ament_cmake_environment_hooks/local_setup.zsh

@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from lidar_camera_perception/msg/TrackedObject.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+#include "geometry_msgs/msg/Twist.idl"
+#include "geometry_msgs/msg/Vector3.idl"
+#include "std_msgs/msg/Header.idl"
+
+module lidar_camera_perception {
+  module msg {
+    struct TrackedObject {
+      std_msgs::msg::Header header;
+
+      int32 track_id;
+
+      int32 age;
+
+      double timestamp;
+
+      geometry_msgs::msg::Pose pose;
+
+      geometry_msgs::msg::Vector3 size;
+
+      geometry_msgs::msg::Twist velocity;
+    };
+  };
+};

@@ -1,0 +1,1 @@
+/home/zonglin/moon_project/ros2_ws/build/lidar_camera_perception/rosidl_generator_cpp/lidar_camera_perception/msg/detail/tracked_object_array__type_support.hpp

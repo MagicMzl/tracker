@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/zonglin/moon_project/ros2_ws/build/lidar_camera_perception/rosidl_generator_py/lidar_camera_perception/lidar_camera_perception_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" "TARGETS" "lidar_camera_perception__rosidl_typesupport_c__pyext" "DESTINATION" "lib/python3.12/site-packages/lidar_camera_perception")
